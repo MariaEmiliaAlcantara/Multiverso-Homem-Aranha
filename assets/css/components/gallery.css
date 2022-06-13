@@ -1,18 +1,13 @@
-.gallery {
-    padding: px;
-    padding-left: 0;
-}
-
 .gallery ul {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     gap: 25px;
 }
 
 .gallery ul li a img {
     border: solid 6px white;
     border-radius: 15px;
-    height: 120px;
+    height: 20vh;
 }
 
 /*

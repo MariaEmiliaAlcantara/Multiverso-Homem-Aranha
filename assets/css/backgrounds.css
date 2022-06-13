@@ -1,0 +1,87 @@
+.s-tobey-01 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tobey/movie-01/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-tobey-02 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tobey/movie-02/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-tobey-03 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tobey/movie-03/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-andrew-01 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-andrew/movie-01/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-andrew-02 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-andrew/movie-02/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-tom-01 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tom/movie-01/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-tom-02 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tom/movie-02/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}
+
+.s-tom-03 {
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url("../images/spiderman-tom/movie-03/background.png");
+    background-size: cover;
+    background-position: center;
+
+    position: sticky;
+}

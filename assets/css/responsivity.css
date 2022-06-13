@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 700px), screen and (max-height: 500px) {
+    .gallery {
+        display: none;
+    }
+
+    /* hide it elsewhere */
+}
+
+@media screen and (max-height: 430px) {
+    .s-wrapper .s-main-content__top .s-description .s-description__text p {
+        display: none;
+    }
+
+    /* hide it elsewhere */
+}
