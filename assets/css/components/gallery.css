@@ -1,0 +1,40 @@
+.gallery {
+    padding: px;
+    padding-left: 0;
+}
+
+.gallery ul {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.gallery ul li a img {
+    border: solid 6px white;
+    border-radius: 15px;
+    height: 120px;
+}
+
+/*
+-- CÓDIGO HTML --
+
+<div class="gallery">
+    <ul>
+        <li>
+            <a href="#">
+                <img src="../../assets/images/spiderman-tobey/movie-01/gallery/image-01.png" alt="">
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="../../assets/images/spiderman-tobey/movie-01/gallery/image-02.png" alt="">
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="../../assets/images/spiderman-tobey/movie-01/gallery/image-03.png" alt="">
+            </a>
+        </li>
+    </ul>
+</div>
+*/
